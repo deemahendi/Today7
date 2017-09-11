@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Today</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="names">
+        <item>Arab American University</item>
+        <item>An-Najah National University</item>
+        <item>open alquds university</item>
+        <item>palestine technical university</item>
+
+    </string-array>
+
+
+
+
+    <string-array name="phones">
+        <item>2326545</item>
+        <item>2578456</item>
+        <item>2427655</item>
+        <item>2456454</item>
+
+    </string-array>
+
+
+</resources>
